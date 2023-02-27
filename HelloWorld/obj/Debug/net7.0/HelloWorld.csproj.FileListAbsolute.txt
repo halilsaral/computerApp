@@ -1,0 +1,15 @@
+/Users/hisaral/Desktop/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/hisaral/Desktop/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/hisaral/Desktop/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/hisaral/Desktop/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/hisaral/Desktop/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/hisaral/Desktop/dotnet/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
